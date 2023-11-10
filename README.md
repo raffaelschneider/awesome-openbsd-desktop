@@ -1,8 +1,8 @@
+![Awesome OpenBSD wallpaper](https://raw.githubusercontent.com/raffaelschneider/openbsd-wallpapers/main/dall-e3/openBSD_wall_dalle3_vxcz.png)
+
 # Awesome OpenBSD Desktop 🐡
 
 A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver. Inspired by the various Awesome Lists and the robust, secure, and quality codebase of OpenBSD.
-
-![Awesome OpenBSD wallpaper](https://raw.githubusercontent.com/raffaelschneider/openbsd-wallpapers/main/dall-e3/openBSD_wall_dalle3_vxcz.png)
 
 ➡️ If you want more of these OpenBSD visuals, go check [here](https://github.com/raffaelschneider/openbsd-wallpapers) to get one of these wallpapers for yourself!
 

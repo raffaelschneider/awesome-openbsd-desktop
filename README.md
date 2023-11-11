@@ -2,7 +2,7 @@
 
 # Awesome OpenBSD Desktop 🐡
 
-A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver. Inspired by the various Awesome Lists and the robust, secure, and quality codebase of OpenBSD.
+A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver. Inspired by the various Awesome lists that exist for a wide variety of tech ecosystems and the robust, secure, and quality codebase of OpenBSD.
 
 ➡️ If you want more of these OpenBSD visuals, go check [here](https://github.com/raffaelschneider/openbsd-wallpapers) to get one of these wallpapers for yourself!
 
@@ -112,7 +112,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [Official OpenBSD Documentation](https://www.openbsd.org/faq/)
 - [r/openbsd](https://www.reddit.com/r/openbsd/) - OpenBSD subreddit.
 - [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/) - A quick guide to getting started with OpenBSD.
-- [Awesome OpenBSD Security](https://github.com/ligurio/awesome-openbsd-security) - A collection of awesome OpenBSD security resources.
+- [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) - A curated list of awesome OpenBSD resources.
 
 ## Contributing
 

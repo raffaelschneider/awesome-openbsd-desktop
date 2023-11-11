@@ -19,6 +19,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [System Monitoring](#system-monitoring)
 - [Security Tools](#security-tools)
 - [Miscellaneous Tools](#miscellaneous-tools)
+- [Miscellaneous Tools](#desktop-setup-guides)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -97,6 +98,14 @@ A curated list of awesome applications, software, tools, and resources for using
 - [Sudo](https://www.sudo.ws/) - A program designed to allow a sysadmin to give limited root privileges to users.
 - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+
+## Desktop setup guides
+
+- [OpenBSD on the Desktop (Part I) by Patrick Bucher](https://paedubucher.ch/articles/2020-09-05-openbsd-on-the-desktop-part-i.html)
+- [OpenBSD on the Desktop (Part II) by Patrick Bucher](https://paedubucher.ch/articles/2020-09-12-openbsd-on-the-desktop-part-ii.html)
+- [OpenBSD desktop first steps by Sándor Czettner](https://www.czettner.com/2022/05/15/openbsd-desktop-first-steps.html)
+- [OpenBSD on a Laptop by c0ffee.net](https://www.c0ffee.net/blog/openbsd-on-a-laptop)
+- [OpenBSD Minimalist Desktop by Daniel Nechtan]([https://www.openbsd.org/faq/faq4.html](https://www.nechtan.io/articles/openbsd_minimalist_desktop.html))
 
 ## Resources
 

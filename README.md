@@ -1,4 +1,4 @@
-![Awesome OpenBSD wallpaper](https://raw.githubusercontent.com/raffaelschneider/openbsd-wallpapers/main/dall-e3/openBSD_wall_dalle3_vxcz.png)
+![Awesome OpenBSD wallpaper](https://raw.githubusercontent.com/raffaelschneider/awesome-openbsd-desktop/main/awesome_openbsd_desktop_hero.png)
 
 # Awesome OpenBSD Desktop 🐡
 

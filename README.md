@@ -29,6 +29,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [fvwm](https://www.fvwm.org/) - A virtual window manager for X11.
 - [i3](https://i3wm.org/) - A tiling window manager, completely written from scratch.
 - [dwm](https://dwm.suckless.org/) - A dynamic window manager for X11.
+- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 
 ## Terminal Emulators
 
@@ -36,6 +37,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - A customizable terminal emulator.
 - [st](https://st.suckless.org/) - A simple terminal implementation for X.
 - [Alacritty](https://alacritty.org/) - A cross-platform, GPU-accelerated terminal emulator.
+- [Zutty](https://tomscii.sig7.se/zutty/) - A high-end terminal for low-end systems.
 
 ## Text Editors
 
@@ -43,6 +45,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 - [nano](https://www.nano-editor.org/) - An easy to use, modeless text editor.
 - [ed](https://man.openbsd.org/ed) - The standard text editor.
+- [helix](https://github.com/helix-editor/helix) -  A post-modern modal text editor.
 
 ## Web Browsers
 

@@ -84,6 +84,7 @@ A curated list of awesome applications, software, tools, and resources for using
 ## System Monitoring
 
 - [htop](https://htop.dev/) - An interactive process viewer for Unix systems.
+- [btop](https://github.com/aristocratos/btop/) - A resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 - [iftop](http://www.ex-parrot.com/~pdw/iftop/) - Display bandwidth usage on an interface.
 - [glances](https://nicolargo.github.io/glances/) - A cross-platform system monitoring tool.
 - [nmon](http://nmon.sourceforge.net/pmwiki.php) - Performance monitoring tool for Linux.

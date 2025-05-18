@@ -109,6 +109,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [OpenBSD desktop first steps by Sándor Czettner](https://www.czettner.com/2022/05/15/openbsd-desktop-first-steps.html)
 - [OpenBSD on a Laptop by c0ffee.net](https://www.c0ffee.net/blog/openbsd-on-a-laptop)
 - [OpenBSD Minimalist Desktop by Daniel Nechtan](https://www.nechtan.io/articles/openbsd_minimalist_desktop.html)
+- [OpenBSD Workstation for the People by Joel Carnat](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 
 ## Resources
 

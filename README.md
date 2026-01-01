@@ -160,6 +160,7 @@ A curated list of awesome applications, software, tools, and resources for using
 - [OpenBSD on the Desktop (Part I) by Patrick Bucher](https://www.paedubucher.ch/articles/open-bsd-on-the-desktop-part-1/)
 - [OpenBSD on the Desktop (Part II) by Patrick Bucher](https://www.paedubucher.ch/articles/open-bsd-on-the-desktop-part-2/)
 - [OpenBSD Minimalist Desktop by Daniel Nechtan](https://www.nechtan.io/articles/openbsd_minimalist_desktop.html)
+- [OpenBSD Workstation for the People by Joel Carnat](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 
 ## Resources
 
